@@ -43,7 +43,11 @@ public class MagicLibrary {
 		bookListener=new BookListener();
 		log.finest("Acabo de crear un objeto de tipo "+BookListener.class.getName());
 		MLView.getFrameManager().setEntityMenu("Book", bookListener);
+
 		log.info("traza3");
+
+		log.info("traza4");
+
 		itemListener=new ItemListener();
 		log.finest("Acabo de crear un objeto de tipo "+ItemListener.class.getName());
 		MLView.getFrameManager().setEntityMenu("Item", itemListener);
