@@ -48,6 +48,7 @@ public class MagicLibrary {
 		MLView.getFrameManager().setEntityMenu("Item", itemListener);
 		log.fine("Terminando el m�todo main");
 		log.info("Traza ");
+		log.info("traza2");
 	}
 
 }
