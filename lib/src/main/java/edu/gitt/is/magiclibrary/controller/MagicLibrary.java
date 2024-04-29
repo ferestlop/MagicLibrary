@@ -17,6 +17,7 @@ public class MagicLibrary {
 	
 	private static BookListener bookListener;
 	private static ItemListener itemListener;
+	//Esto es un comentario de prueba
 	/**
 	 * <p>Con esta operaci�n se indica a la aplicaci�n donde est� el fichero de propiedades de trazado</p>
 	 */
